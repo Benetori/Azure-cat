@@ -1,2 +1,2 @@
 # Azure-cat
-Azure cat is cloud storage.
+Azure cat is a cloud storage.
